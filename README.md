@@ -9,5 +9,6 @@ Don't need an installation, just:
   
   3 $ sudo git clone https://github.com/DaymarDav/Sub-x-Net.git
   
-  4 $ python3 Day-Netting.py
+  4 $ python3 Day-subnetting.py
+  
   
